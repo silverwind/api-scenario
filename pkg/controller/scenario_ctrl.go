@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/thomaspoignant/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/pkg/model"
 )
 
 type ScenarioController interface {

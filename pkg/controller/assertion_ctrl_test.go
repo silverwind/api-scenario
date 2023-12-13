@@ -2,10 +2,10 @@ package controller_test
 
 import (
 	"fmt"
-	"github.com/thomaspoignant/api-scenario/pkg/context"
-	"github.com/thomaspoignant/api-scenario/pkg/controller"
-	"github.com/thomaspoignant/api-scenario/pkg/model"
-	"github.com/thomaspoignant/api-scenario/test"
+	"github.com/silverwind/api-scenario/pkg/context"
+	"github.com/silverwind/api-scenario/pkg/controller"
+	"github.com/silverwind/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/test"
 	"net/http"
 	"testing"
 	"time"

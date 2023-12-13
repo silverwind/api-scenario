@@ -6,8 +6,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/thomaspoignant/api-scenario/pkg/log"
-	"github.com/thomaspoignant/api-scenario/pkg/util"
+	"github.com/silverwind/api-scenario/pkg/log"
+	"github.com/silverwind/api-scenario/pkg/util"
 )
 
 var cfgFile string

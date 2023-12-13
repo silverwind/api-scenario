@@ -1,7 +1,7 @@
 package model_test
 
 import (
-	"github.com/thomaspoignant/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/pkg/model"
 	"reflect"
 	"testing"
 )

@@ -2,9 +2,9 @@ package controller_test
 
 import (
 	"errors"
-	"github.com/thomaspoignant/api-scenario/pkg/controller"
-	"github.com/thomaspoignant/api-scenario/pkg/model"
-	"github.com/thomaspoignant/api-scenario/test"
+	"github.com/silverwind/api-scenario/pkg/controller"
+	"github.com/silverwind/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/test"
 	"strings"
 	"testing"
 )

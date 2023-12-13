@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/spf13/viper"
-	"github.com/thomaspoignant/api-scenario/cmd"
+	"github.com/silverwind/api-scenario/cmd"
 )
 
 // version, commit, date are override by goreleaser during the build.

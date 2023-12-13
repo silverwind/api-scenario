@@ -2,7 +2,7 @@ package log_test
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/thomaspoignant/api-scenario/pkg/log"
+	"github.com/silverwind/api-scenario/pkg/log"
 	"testing"
 	"time"
 )

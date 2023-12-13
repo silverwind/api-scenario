@@ -1,4 +1,4 @@
-module github.com/thomaspoignant/api-scenario
+module github.com/silverwind/api-scenario
 
 go 1.14
 

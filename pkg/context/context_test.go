@@ -3,8 +3,8 @@ package context_test
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/thomaspoignant/api-scenario/pkg/context"
-	"github.com/thomaspoignant/api-scenario/test"
+	"github.com/silverwind/api-scenario/pkg/context"
+	"github.com/silverwind/api-scenario/test"
 	"strconv"
 	"strings"
 	"testing"

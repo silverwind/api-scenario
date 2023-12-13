@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"github.com/thomaspoignant/api-scenario/pkg/util"
+	"github.com/silverwind/api-scenario/pkg/util"
 )
 
 func TestIsNumeric(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/clbanning/mxj"
 	"github.com/jmoiron/jsonq"
-	"github.com/thomaspoignant/api-scenario/pkg/util"
+	"github.com/silverwind/api-scenario/pkg/util"
 	"net/url"
 	"reflect"
 	"strconv"
@@ -13,8 +13,8 @@ import (
 	"github.com/sendgrid/rest"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
-	"github.com/thomaspoignant/api-scenario/pkg/context"
-	"github.com/thomaspoignant/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/pkg/context"
+	"github.com/silverwind/api-scenario/pkg/model"
 )
 
 type StepController interface {

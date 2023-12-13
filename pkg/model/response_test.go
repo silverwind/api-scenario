@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/sendgrid/rest"
-	"github.com/thomaspoignant/api-scenario/pkg/model"
-	"github.com/thomaspoignant/api-scenario/test"
+	"github.com/silverwind/api-scenario/pkg/model"
+	"github.com/silverwind/api-scenario/test"
 )
 
 func TestNewResponseCreateAValidResponse(t *testing.T) {

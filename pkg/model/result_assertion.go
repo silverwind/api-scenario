@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/sirupsen/logrus"
-	"github.com/thomaspoignant/api-scenario/pkg/log"
+	"github.com/silverwind/api-scenario/pkg/log"
 )
 
 type ResultAssertion struct {
